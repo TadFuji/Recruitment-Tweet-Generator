@@ -1,0 +1,5 @@
+{
+  "name": "AI Tweet Generator for Recruiters",
+  "description": "An application that automatically generates two company introduction tweets per day for job seekers, based on 'Today's Anniversary'.",
+  "requestFramePermissions": []
+}
